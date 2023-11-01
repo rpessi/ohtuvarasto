@@ -1,5 +1,6 @@
 *.tmp
-__pycache__/*
-.pytest_cache/*
+src/__pycache__/*
+src/.pytest_cache/*
 .coverage
 htmlcov/*
+src/tests/__pycache__/*
